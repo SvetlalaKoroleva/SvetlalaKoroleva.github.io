@@ -1037,6 +1037,43 @@ a .catalog-category {
 	z-index: 70;
 }
 
+.modal-search-link {
+	position: fixed;
+	top: 59px;
+	left: 50%;
+
+	display: none;
+
+	width: 311px;
+	padding: 20px 15px;
+    border-radius: 6px;
+    box-shadow: 0px 20px 20px 0px rgba(0, 0, 0, 0.4);
+    margin-left: -171px;
+}
+
+.search-form input[type="text"] {
+	font: inherit;
+	color: #000000;
+
+	box-sizing: border-box;
+	width: 311px;
+	padding: 10px 14px;
+	border: 1px solid #d3d3d2;
+	border-radius: 5px;
+
+	background-color: #ffffff;
+}
+
+.search-form input:focus {
+	border: 2px solid #8fbdec;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.5);
+ }
+
+ .search-form input:hover {
+	border: 2px solid #c7c6c5;
+ }
+
 .modal-login {
 	box-sizing: border-box;
 	top: 59px; 
@@ -1069,12 +1106,17 @@ a .catalog-category {
  	color: #000000;
  	background-color: #ffffff;
  	border: 1px solid #d3d3d2;
+ 	border-radius: 5px;
  }
 
  .login-form input:focus {
  	border: 2px solid #8fbdec;
-    color: #000000;
+    background-color: rgba(255, 255, 255, 0.5);
     font-weight: bold;
+ }
+
+ .login-form input:hover {
+	border: 2px solid #c7c6c5;
  }
 
  .login-form .login-password-info {
@@ -1169,14 +1211,20 @@ a .catalog-category {
 	color: #000000;
 	background-color: #ffffff;
 	border: 1px solid #d3d3d2;
+	border-radius: 5px;
 }
 
 .feedback-form input:focus,
 .feedback-form textarea:focus {
     border: 2px solid #8fbdec;
-    color: #000000;
+    background-color: rgba(255, 255, 255, 0.5);
     font-weight: bold;
 }
+
+.feedback-form input:hover,
+.feedback-form textarea:hover {
+	border: 2px solid #c7c6c5;
+ }
 
 .feedback-form textarea {
 	width: 425px;
