@@ -237,7 +237,8 @@ input[type="radio"].visually-hidden {
 .site-catalog-navigation {
 	margin:0;
 	padding:0;
-    margin-left: 204px;
+    margin-left: 194px;
+    margin-bottom: 7px;
 }
 
 .site-podcatalog-navigation a {
