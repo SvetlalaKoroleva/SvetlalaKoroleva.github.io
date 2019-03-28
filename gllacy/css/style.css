@@ -245,6 +245,14 @@ input[type="radio"].visually-hidden {
     margin-right: 293px;
 }
 
+.site-navigation .shipping {
+	margin-left: -3px;
+}
+
+.site-navigation .about {
+	margin-left: -5px;
+}
+
 .site-podcatalog-navigation a {
     display: block;
 	color: #000000;
