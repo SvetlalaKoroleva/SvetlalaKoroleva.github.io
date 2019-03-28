@@ -428,6 +428,8 @@ input[type="radio"].visually-hidden {
 
 	width: 22px;
 	height: 20px;
+	top: 9px;
+	left: 15px;
 
 	background-image: url("../img/basket.svg");
 	background-repeat: no-repeat;
@@ -466,7 +468,7 @@ input[type="radio"].visually-hidden {
 	padding: 0;
 	margin: 0;
 	margin-right: 3px;
-	padding-bottom: 2px;
+	/*padding-bottom: 2px;*/
 }
 
 .phone-number {
@@ -474,7 +476,7 @@ input[type="radio"].visually-hidden {
 	line-height: 24px;
 	margin: 0;
 	padding: 0;
-	margin-right: 27px;
+	margin-right: 29px;
 }
 
 .button-catalog-item {
