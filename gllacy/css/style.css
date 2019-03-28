@@ -51,7 +51,7 @@ input[type="radio"].visually-hidden {
 	background-color: #849d8f;
 	background-image: url("../img/Мороженки 1.png");
 	background-repeat: no-repeat;
-	background-position: 50% 100px;
+	background-position: 50% 0;
 	-webkit-transition: background-image 0.5s ease, background-color 0.5s ease;
 	-o-transition: background-image 0.5s ease, background-color 0.5s ease;
 	transition: background-image 0.5s ease, background-color 0.5s ease;
@@ -232,13 +232,13 @@ input[type="radio"].visually-hidden {
    padding-top: 8px;
    padding-right: 18px;
    padding-left: 10px;
+   margin-top: -7px;
  }
 
 .site-catalog-navigation {
 	margin:0;
 	padding:0;
     margin-left: 194px;
-    margin-bottom: 7px;
 }
 
 .site-podcatalog-navigation a {
