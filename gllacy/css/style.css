@@ -215,7 +215,7 @@ input[type="radio"].visually-hidden {
  	position: absolute;
  	width: 154px;
  	height: 65px;
- 	padding-top: 11px;
+ 	padding-top: 10px;
     padding-left: 26px;
     padding-right: 20px;
  }
@@ -230,7 +230,7 @@ input[type="radio"].visually-hidden {
  
    padding-bottom:9px;
    padding-top: 8px;
-   padding-right: 14px;
+   padding-right: 15px;
    padding-left: 10px;
    margin-top: -8px;
  }
@@ -381,7 +381,8 @@ input[type="radio"].visually-hidden {
 	        justify-content: center;
 	width: 94px;
 	height: 34px;
-	margin-left: 
+	margin-left: 2px;
+	margin-bottom: 1px;
 
 }
 
@@ -409,7 +410,7 @@ input[type="radio"].visually-hidden {
 	padding-right: 30px;
 	padding-bottom: 10px;
 	padding-top: 10px;
-	margin-left: 70px;
+	margin-left: 61px;
 }
 
 .menu-basket-2 {
@@ -422,7 +423,8 @@ input[type="radio"].visually-hidden {
 	content: "";
 
 	position: absolute;
-	left: 16px;
+	left: 30px;
+	top: 2px;
 	/*display: none;*/
 
 	width: 22px;
