@@ -381,8 +381,8 @@ input[type="radio"].visually-hidden {
 	        justify-content: center;
 	width: 94px;
 	height: 34px;
-	margin-left: 2px;
-	margin-bottom: 1px;
+	margin-left: 4px;
+	/*margin-bottom: 1px;*/
 
 }
 
@@ -423,8 +423,7 @@ input[type="radio"].visually-hidden {
 	content: "";
 
 	position: absolute;
-	left: 30px;
-	top: 2px;
+	left: 48px;
 	/*display: none;*/
 
 	width: 22px;
