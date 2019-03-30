@@ -78,7 +78,7 @@ input[type="radio"].visually-hidden {
 
 .slider {
 	position: relative;
-	padding-top: 271px;
+	padding-top: 274px;
 	text-align: center;
 	color: #ffffff;
 }
@@ -92,7 +92,7 @@ input[type="radio"].visually-hidden {
 .slide-title {
 	width: 700px;
 	margin: 0 auto;
-	margin-bottom: 27px;
+	margin-bottom: 30px;
 
 	font-size: 60px;
 	line-height: 60px;
