@@ -245,11 +245,11 @@ input[type="radio"].visually-hidden {
     margin-right: 293px;
 }
 
-.shipping {
-	margin-right: 9px;
+.about a {
+	margin-left: 3px;
 }
 
-.catalog {
+.catalog a {
 	margin-right: 3px;
 }
 
