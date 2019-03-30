@@ -388,8 +388,7 @@ input[type="radio"].visually-hidden {
 	        justify-content: center;
 	width: 94px;
 	height: 34px;
-	/*margin-left: px;*/
-	/*margin-bottom: 1px;*/
+	margin-left: -2px;
 
 }
 
@@ -469,6 +468,7 @@ input[type="radio"].visually-hidden {
 	        align-items: flex-end;
 	padding-top: 18px;
 	padding-right: 25px;
+	margin-top: -3px;
  }
 
 .mode-phone p {
@@ -484,6 +484,7 @@ input[type="radio"].visually-hidden {
 	margin: 0;
 	padding: 0;
 	margin-right: 29px;
+	margin-top: 3px;
 }
 
 .button-catalog-item {
