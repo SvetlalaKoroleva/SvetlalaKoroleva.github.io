@@ -113,7 +113,7 @@ input[type="radio"].visually-hidden {
 
 .slider-controls {
 	position: absolute;
-	bottom: 18px;
+	bottom: 16px;
 	left: 0;
 	z-index: 20;
 	font-size: 0;
@@ -537,7 +537,7 @@ input[type="radio"].visually-hidden {
 }
 
 .fruit-bonus {
-	margin-top: 40px;
+	margin-top: 41px;
 	margin-left: -13px;
 }
 
@@ -546,6 +546,7 @@ input[type="radio"].visually-hidden {
 	display: -ms-flexbox;
 	display: flex;
 	margin: 0;
+	padding-top: 1px;
 }
 
 .bonus-list h2 {
