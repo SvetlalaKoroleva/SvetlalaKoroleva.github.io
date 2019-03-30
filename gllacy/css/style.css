@@ -415,7 +415,7 @@ input[type="radio"].visually-hidden {
 	padding-right: 35px;
 	padding-bottom: 9px;
 	padding-top: 9px;
-	margin-left: 58px;
+	margin-left: 60px;
 }
 
 .menu-basket-2 {
@@ -468,7 +468,6 @@ input[type="radio"].visually-hidden {
 	padding-top: 18px;
 	padding-right: 25px;
 	margin-top: -3px;
-	margin-bottom: 3px;
  }
 
 .mode-phone p {
@@ -476,6 +475,10 @@ input[type="radio"].visually-hidden {
 	margin: 0;
 	margin-right: 3px;
 	/*padding-bottom: 2px;*/
+}
+
+.mode-phone .mode-operation {
+	margin-bottom: 6px;
 }
 
 .phone-number {
