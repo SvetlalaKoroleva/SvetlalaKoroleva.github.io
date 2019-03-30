@@ -113,11 +113,12 @@ input[type="radio"].visually-hidden {
 
 .slider-controls {
 	position: absolute;
-	bottom: 16px;
+	bottom: 18px;
 	left: 0;
 	z-index: 20;
 	font-size: 0;
 	margin: 0 auto;
+	margin-top: 2px;
     padding: 0 27px;
 }
 
