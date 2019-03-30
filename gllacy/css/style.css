@@ -92,7 +92,7 @@ input[type="radio"].visually-hidden {
 .slide-title {
 	width: 700px;
 	margin: 0 auto;
-	margin-bottom: 30px;
+	margin-bottom: 32px;
 
 	font-size: 60px;
 	line-height: 60px;
@@ -173,7 +173,7 @@ input[type="radio"].visually-hidden {
 }
 
 .slide-button {
-	padding: 10px 44px;
+	padding: 12px 44px;
 
 	font-weight: 600;
 	font-size: 31px;
@@ -520,6 +520,7 @@ input[type="radio"].visually-hidden {
 	background-position: 0 0; 
     border-radius: 20px;
 	margin-right: 26px;
+	margin-left: 1px;
 
 }
 
