@@ -246,11 +246,11 @@ input[type="radio"].visually-hidden {
 }
 
 .shipping {
-	/*margin-right: 3px;*/
+	margin-right: 9px;
 }
 
-.about {
-	margin-left: -11px;
+.catalog {
+	margin-right: 3px;
 }
 
 .site-podcatalog-navigation a {
