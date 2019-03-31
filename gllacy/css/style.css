@@ -721,7 +721,7 @@ display: flex;
     url("../img/Корова.svg"),
     url("../img/Градусник.svg");
 	background-repeat: no-repeat;
-	background-position: 0 10px, 0 86px, 556px 10px, 556px 86px;
+	background-position: 0 10px, 0 93px, 556px 10px, 556px 93px;
 }
 
 .desk-img .desc-text-1{
@@ -735,7 +735,18 @@ display: flex;
 	margin: 0;
 }
 
-.desk-info p {
+.desk-img p,
+.desk-img p {
+	margin: 0;
+}
+
+.desc-info .first,
+.desc-info .desc-text-3 {
+	padding-top: 20px;
+	padding-bottom: 27px;
+}
+
+.desk-info-1 p {
 	padding-left: 56px;
 }
 
