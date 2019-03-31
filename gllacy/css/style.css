@@ -695,12 +695,14 @@ display: flex;
   border-radius: 10px;
   position: relative;
   z-index: 5;
-  top: -36px;
+  top: -39px;
+  margin: 0;
+  padding: 0;
 
   padding-top: 28px;
   padding-bottom: 26px;
   padding-left: 20px;
-  padding-right: 32px;
+  padding-right: 20px;
   margin-right: 27px;
   margin-left: 27px;
 }
@@ -709,11 +711,7 @@ display: flex;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
-	-webkit-box-pack: justify;
-	    -ms-flex-pack: justify;
-	        justify-content: space-between;
-	-ms-flex-wrap: nowrap;
-	    flex-wrap: nowrap;
+	flex-wrap: nowrap;
 	padding-left: 56px;
     background-image: 
     url("../img/мороженко.svg"),
@@ -721,7 +719,7 @@ display: flex;
     url("../img/Корова.svg"),
     url("../img/Градусник.svg");
 	background-repeat: no-repeat;
-	background-position: 0 10px, 0 93px, 556px 10px, 556px 93px;
+	background-position: 0 10px, 0 97px, 566px 10px, 566px 97px;
 }
 
 .desk-img .desc-text-1{
@@ -733,6 +731,7 @@ display: flex;
 	line-height: 30px;
     color: #323232;
 	margin: 0;
+	margin-top: 5px;
 }
 
 .desk-img p,
