@@ -495,11 +495,13 @@ input[type="radio"].visually-hidden {
 	font-weight: 600;
 	font-size: 18px;
 	line-height: 24px;
-	margin-left: 330px;
+	margin-left: 332px;
+	margin-top: 2px;
 }
 
 .button-fruit {
-	margin-left: 353px;
+	margin-left: 354px;
+	margin-top: 2px;
 }
 
 .bonus {
