@@ -500,7 +500,7 @@ input[type="radio"].visually-hidden {
 }
 
 .button-fruit {
-	margin-left: 354px;
+	margin-left: 359px;
 	margin-top: 2px;
 }
 
@@ -612,14 +612,15 @@ display: flex;
 .price,
 .price b {
 	
-	font-size: 35px;
-	line-height: 45px;
+	font-size: 45px;
+	line-height: 1px;
 	font-weight: bold;
 
 	margin: 0;
 	padding-top: 15px;
 	padding-bottom: 36px;
 	padding-right: 10px;
+	text-shadow: 0px 1px 3px rgba(49, 50, 53, 0.5);
 }
 
 .price span {
@@ -633,7 +634,8 @@ display: flex;
 .price-all-item p {
 	position: absolute;
 	left: 0;
-	top: 215px;
+	top: 195px;
+	margin: 0;
 }
 .price-all-item button {
 	padding-bottom: 22px;
