@@ -500,7 +500,7 @@ input[type="radio"].visually-hidden {
 }
 
 .button-fruit {
-	margin-left: 357px;
+	margin-left: 358px;
 	margin-top: 2px;
 }
 
@@ -622,7 +622,7 @@ display: flex;
 	text-shadow: 0px 1px 3px rgba(49, 50, 53, 0.5);
 }
 
-.price span {
+.small-letter {
 	font-size: 23px;
 	line-height: 45px;
 	font-weight: bold;
