@@ -626,7 +626,7 @@ display: flex;
 .price-all-item p {
 	position: absolute;
 	left: 0;
-	top: 195px;
+	top: 217px;
 
 	font-size: 45px;
 	line-height: 1px;
@@ -695,7 +695,7 @@ display: flex;
   border-radius: 10px;
   position: relative;
   z-index: 5;
-  top: -43px;
+  top: -51px;
 
   padding-top: 28px;
   padding-bottom: 26px;
