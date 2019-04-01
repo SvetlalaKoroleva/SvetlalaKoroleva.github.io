@@ -981,6 +981,18 @@ display: flex;
 	margin-right: 17px;
 }
 
+.social-button:hover svg{
+	border: 4px solid #dae2de;
+	border-radius: 50%;
+	opacity: 0.8;
+}
+
+.social-button:active svg{
+	border: 4px solid #dae2de;
+	border-radius: 50%;
+	opacity: 0.8;
+}
+
 .social-button:hover path {
 	fill: #ffffff;
 }
