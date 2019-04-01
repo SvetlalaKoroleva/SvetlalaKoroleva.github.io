@@ -864,18 +864,24 @@ display: flex;
  	/*padding-bottom: 5px;*/
  }
 
+ .number {
+ 	font-size: 14px;
+ 	line-height: 20px;
+    padding-bottom: 25px;
+ }
+
  .address,
  .number b {
- 	font-size: 18px;
+    font-size: 18px;
  	line-height: 24px;
  	font-weight: bold;
  	color: #000000;
- }
+}
 
- .number b {
- 	padding-top: 4px;
- 	padding-bottom: 2px;
- }
+.number b {
+	display: inline-block;
+	padding-top: 6px;
+}
 
 .address {
   padding-bottom: 18px;	
@@ -901,13 +907,6 @@ display: flex;
     padding-right: 25px;
     padding-top: 30px;
     border-radius: 15px;
- }
-
- .number {
- 	font-size: 14px;
- 	line-height: 20px;
-
- 	padding-bottom: 25px;
  }
 
 .button-form {
