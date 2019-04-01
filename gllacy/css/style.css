@@ -695,7 +695,7 @@ display: flex;
   border-radius: 10px;
   position: relative;
   z-index: 5;
-  top: -39px;
+  top: -42px;
   margin: 0;
   padding: 0;
 
@@ -704,7 +704,7 @@ display: flex;
   padding-left: 20px;
   padding-right: 20px;
   margin-right: 27px;
-  margin-left: 27px;margin-top: 3px;
+  margin-left: 27px;
 }
 
 .desk-img {
@@ -719,7 +719,7 @@ display: flex;
     url("../img/Корова.svg"),
     url("../img/Градусник.svg");
 	background-repeat: no-repeat;
-	background-position: 0 10px, 0 97px, 566px 10px, 566px 97px;
+	background-position: 0 10px, 0 90px, 566px 10px, 566px 90px;
 }
 
 .desk-img .desc-text-1{
@@ -742,7 +742,7 @@ display: flex;
 .desc-info .first,
 .desc-info .desc-text-3 {
 	padding-top: 20px;
-	padding-bottom: 27px;
+	padding-bottom: 19px;
 }
 
 .desk-info-1 p {
