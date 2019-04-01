@@ -818,19 +818,17 @@ display: flex;
 .mail-mail {
 	background-color: #ffffff;
 	border-radius: 10px;
+	padding: 31px 20px 35px;
 }
 
  .subscription {
     margin: 0;
- 	padding-left: 22px;
- 	padding-right: 22px;
- 	padding-top: 30px;
 }
 
 .email-subscription {
 	width: 352px;
 	padding-top: 11px;
-	padding-bottom: 11px;
+	padding-bottom: 13px;
 	padding-left: 14px;
     border: 1px solid #d3d3d2;
     border-radius: 5px;
@@ -839,9 +837,6 @@ display: flex;
 
 .mail form {
 	padding-top: 35px;
-	padding-bottom: 35px;
-	margin-left: 19px;
-	margin-right: 19px;
 }
 
 .button-mail {
