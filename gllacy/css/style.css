@@ -712,7 +712,7 @@ display: flex;
 	display: -ms-flexbox;
 	display: flex;
 	flex-wrap: nowrap;
-	padding-left: 56px;
+	
     background-image: 
     url("../img/Мороженко.svg"),
     url("../img/Листик.svg"),
@@ -720,10 +720,6 @@ display: flex;
     url("../img/Градусник.svg");
 	background-repeat: no-repeat;
 	background-position: 0px 8px, 0 94px, 565px 8px, 565px 94px;
-}
-
-.desk-img .desc-text-1{
-	padding-right: 85px;
 }
 
 .desc-info h6 {
@@ -744,9 +740,19 @@ display: flex;
 	padding-bottom: 19px;
 }
 
-.desk-info-1 p {
-	padding-left: 51px;
+.desc-info-1,
+.desc-info-2 {
+	width: 560px;
+	padding-left: 56px;
 }
+
+.desc-info-1 {
+	margin-right: 26px;
+}
+
+/*.desc-info-2 {
+	padding-right: 13px;
+}*/
 
 .news-mail { 
 	display: -webkit-box; 
