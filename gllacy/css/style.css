@@ -960,9 +960,8 @@ display: flex;
 .footer-social ul {
 	margin: 0;
 	padding: 0;
-	padding-top: 32px;
+	padding-top: 37px;
 	padding-bottom: 28px;
-	padding-left: 3px;
 	width: 267px;
 	display: -webkit-box;
 	display: -ms-flexbox;
