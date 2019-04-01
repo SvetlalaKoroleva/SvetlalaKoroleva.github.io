@@ -824,13 +824,14 @@ display: flex;
     margin: 0;
  	padding-left: 22px;
  	padding-right: 22px;
- 	padding-top: 32px;
+ 	padding-top: 34px;
 }
 
 .email-subscription {
-	width: 367px;
+	width: 352px;
 	padding-top: 12px;
 	padding-bottom: 12px;
+	padding-left: 15px;
     border: 1px solid #d3d3d2;
     border-radius: 5px;
     background-color: rgba(255, 255, 255, 0.52);
@@ -892,11 +893,12 @@ display: flex;
 
 .footer-feedback {
 	position: absolute;
-	top: 62px;
+	top: 55px;
 	right: 27px;
     background-color: #ffffff;
     color: #000000;
-    padding-left: 23px;
+    padding-left: 25px;
+    padding-right: 25px;
     padding-top: 30px;
     border-radius: 15px;
  }
@@ -911,7 +913,6 @@ display: flex;
 .button-form {
 	padding: 10px 28px;
 	margin-bottom: 30px;
-	margin-right: 25px;
 }
 
 .button-form a {
