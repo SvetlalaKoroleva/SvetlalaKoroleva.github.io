@@ -699,7 +699,7 @@ display: flex;
   margin: 0;
   padding: 0;
 
-  padding-top: 24px;
+  padding-top: 23px;
   padding-bottom: 26px;
   padding-left: 20px;
   padding-right: 20px;
@@ -714,7 +714,7 @@ display: flex;
 	flex-wrap: nowrap;
 	padding-left: 56px;
     background-image: 
-    url("../img/мороженко.svg"),
+    url("../img/Мороженко.svg"),
     url("../img/Листик.svg"),
     url("../img/Корова.svg"),
     url("../img/Градусник.svg");
@@ -723,7 +723,7 @@ display: flex;
 }
 
 .desk-img .desc-text-1{
-	padding-right: 90px;
+	padding-right: 85px;
 }
 
 .desc-info h6 {
