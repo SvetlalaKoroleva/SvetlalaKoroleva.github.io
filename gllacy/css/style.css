@@ -1015,8 +1015,8 @@ display: flex;
 
  	width: 560px;
  	margin: 0;
- 	padding-top: 27px;
- 	padding-left: 128px;
+ 	padding-top: 28px;
+ 	padding-left: 132px;
  }
 
 .footer-documents-standart {
@@ -1055,13 +1055,13 @@ display: flex;
     line-height: 18px;
 
     width: 267px;
-    padding-left: 77px;
-    padding-top: 45px;
+    padding-left: 105px;
+    padding-top: 59px;
 }
 
 .footer-copyright img {
 	position: absolute;
-	top: 0;
+	top: 18px;
 }
 
 .copyright {
