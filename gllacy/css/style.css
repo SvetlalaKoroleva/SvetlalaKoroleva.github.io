@@ -1062,14 +1062,13 @@ display: flex;
 .footer-copyright img {
 	position: absolute;
 	top: 12px;
+	padding-bottom: -2px;
 }
 
 .copyright {
 	text-decoration: underline;
 	margin: 0;
 	padding: 0;
-	/*padding-bottom: 25px;*/
-	/*display: block;*/
 }
 
 .restore,
