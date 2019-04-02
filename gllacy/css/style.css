@@ -836,7 +836,7 @@ display: flex;
 }
 
 .mail form {
-	padding-top: 35px;
+	padding-top: 34px;
 }
 
 .button-mail {
@@ -848,7 +848,7 @@ display: flex;
 	padding-top: 10px;
 	padding-right: 18px;
 	padding-left: 18px;
-	margin-left: 10px;
+	margin-left: 13px;
 }
 
 .map-feedback {
@@ -979,6 +979,7 @@ display: flex;
 
 .social-button {
 	margin-right: 10px;
+	margin-left: -2px;
 }
 
 .social-button:hover svg{
@@ -1018,7 +1019,7 @@ display: flex;
  	width: 560px;
  	margin: 0;
  	padding-top: 27px;
- 	padding-left: 24px;
+ 	padding-left: 31px;
  }
 
 .footer-documents-standart {
@@ -1034,8 +1035,13 @@ display: flex;
 .standart-1 a{
 	margin-right: 30px;
 	padding-left: 22px;
-    
-}
+	padding-bottom: 3px;
+	padding-right: 2px;
+ }
+
+ .standart-2 a {
+ 	padding-bottom: 3px;
+ }
 
 .for-suppliers {
 	background-image: url(../img/Сердце.svg);
