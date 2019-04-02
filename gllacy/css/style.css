@@ -1043,7 +1043,7 @@ display: flex;
 .for-suppliers {
 	background-image: url(../img/Сердце.svg);
 	background-repeat: no-repeat;
-	background-position: 2px 0;
+	background-position: 0px 2px;
 	font-weight: bold;
 }
 
@@ -1051,17 +1051,17 @@ display: flex;
 .footer-copyright {/*box-shadow: inset 0 0 0 2px rgb(234, 255, 45);
 	background-repeat: repeat;background: rgba(234, 255, 45, 6.2);*/
 	position: relative;
+	left: 52px;
     font-size: 12px;
     line-height: 18px;
 
     width: 267px;
-    padding-left: 105px;
     padding-top: 59px;
 }
 
 .footer-copyright img {
 	position: absolute;
-	top: 18px;
+	top: 12px;
 }
 
 .copyright {
