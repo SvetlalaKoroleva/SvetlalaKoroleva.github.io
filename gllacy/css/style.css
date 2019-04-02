@@ -954,7 +954,7 @@ display: flex;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-	margin-left: 27px;
+	margin-left: 31px;
 }
 
 .footer-social ul {
@@ -979,7 +979,6 @@ display: flex;
 
 .social-button {
 	margin-right: 10px;
-	margin-left: -2px;
 }
 
 .social-button:hover svg{
@@ -1020,6 +1019,7 @@ display: flex;
  	margin: 0;
  	padding-top: 27px;
  	padding-left: 31px;
+ 	margin-right: 26px;
  }
 
 .footer-documents-standart {
@@ -1035,7 +1035,7 @@ display: flex;
 .standart-1 a{
 	margin-right: 30px;
 	padding-left: 22px;
-	padding-bottom: 3px;
+	padding-bottom: 4px;
 	padding-right: 2px;
  }
 
