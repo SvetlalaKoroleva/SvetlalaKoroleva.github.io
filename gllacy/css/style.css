@@ -1,6 +1,6 @@
 html,
 body {
-    min-width: 1200px;
+    width: 1200px;
     font-family: "Roboto", Arial, sans-serif;
     font-size: 16px;
     line-height: 22px;
@@ -72,8 +72,8 @@ input[type="radio"].visually-hidden {
 }
 
 .background {
-    width: 1200px;
-    margin: 0 auto;
+    /*width: 1200px;*/
+    /*margin: 0 auto;*/
 
 }
 
@@ -241,7 +241,7 @@ input[type="radio"].visually-hidden {
     flex-wrap: wrap;
     margin: 0;
     margin-right: 27px;
-    /*???*/
+
     padding: 0;
     margin-left: 194px;
     margin-right: 293px;
