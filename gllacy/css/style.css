@@ -56,10 +56,6 @@ input[type="radio"].visually-hidden {
   transition: background-image 0.5s ease, background-color 0.5s ease;
 }
 
-.wrapper-fon {
-  /*min-width: 1200px;*/
-}
-
 .site-wrapper::before,
 .site-wrapper::after {
   content: "";
@@ -435,7 +431,7 @@ input[type="radio"].visually-hidden {
   content: "";
 
   position: absolute;
-  left: 48px;
+  /*left: 48px;*/
   /*display: none;*/
 
   width: 22px;
