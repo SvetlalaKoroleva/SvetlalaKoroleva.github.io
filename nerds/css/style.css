@@ -1,0 +1,60 @@
+html,
+body {
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+  background-color: #ffffff;
+
+  width: 1200px;
+  margin: 0 120px;
+  /*text-align: center;*/
+  /* сайт по центру экрана*/
+}
+
+.visually-hidden:not(:focus):not(:active),
+input[type="checkbox"].visually-hidden,
+input[type="radio"].visually-hidden {
+  position: absolute;
+
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+
+  -webkit-clip-path: inset(100%);
+
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.button {
+  display: inline-block;
+
+  font-size: 16px;
+  line-height: 18px;
+
+  text-align: center;
+  color: #ffffff;
+  outline: 1px solid #666;
+  vertical-align: top;
+  /*не уверена*/
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+
+
+}
